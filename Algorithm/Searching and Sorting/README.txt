@@ -1,1 +1,1 @@
-Folder folr searching and sorting algorithm implementation
+Folder for searching and sorting algorithm implementation with java
